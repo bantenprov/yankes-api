@@ -12,7 +12,9 @@
   ],
   "license": "MIT",
   "support": {
-    "source": "https://github.com/bantenprov/yankes-api"
+    "source": "https://github.com/bantenprov/yankes-api,",
+    "issues": "https://github.com/bantenprov/yankes-api/issues",
+    "wiki": "https://github.com/bantenprov/yankes-api/wiki"
   },
   "require": {
     "php": ">=5.4.0",
