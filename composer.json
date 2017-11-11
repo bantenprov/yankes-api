@@ -1,13 +1,13 @@
 {
-  "description": "The Workflow package for manage state and transition",
-  "name": "bantenprov/workflow",
+  "description": "REST Full Api for yankes application",
+  "name": "bantenprov/ci-api-manager",
   "type": "library",
   "homepage": "https://github.com/bantenprov/yankes-api",
   "authors": [
     {
       "name": "bantenprov",
       "email": "developer.bantenprov@gmail.com",
-      "role": "developer",
+      "role": "developer"
     }
   ],
   "license": "MIT",
@@ -15,16 +15,7 @@
     "source": "https://github.com/bantenprov/yankes-api"
   },
   "require": {
-    "php": ">=5.6.4",
-    "illuminate/support": "5.4.*",
+    "php": ">=5.4.0",
+    "laravel/laravel": "5.4"
   },
-  "autoload": {
-        "files": [
-            "src/helpers/helpers.php"
-        ],
-        "psr-4": {
-            "Bantenprov\\YankesApi\\": "src"
-        }
-    },
-    "minimum-stability": "stable"
 }
