@@ -1,6 +1,6 @@
 {
   "description": "REST Full Api for yankes application",
-  "name": "bantenprov/ci-api-manager",
+  "name": "bantenprov/yankes-api",
   "type": "library",
   "homepage": "https://github.com/bantenprov/yankes-api",
   "authors": [
